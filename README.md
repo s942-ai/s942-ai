@@ -54,6 +54,13 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 </p>
 <br><br><br>
 
+---
+
+<img align="left" width="250" height="150" src="https://github.com/s942-ai/OTT-Platform-Merge-LIO-JOTSTAR/blob/main/_Create%20a%20cinematic%20streaming%20platform%20style%20background%20in%20dark%20blue%20with%20a%20subtle%20starry%20pattern.%20Add%20bold,%20stylish%20sans-serif%20text%20'Lio-JotStar'%20in%20the%20center,%20with%20a%20glowing%20neon%20effect.%20The%20design%20should%20feel.jpg"> **[Lio-Jotstar Merger Analysis ](/tree/main)**
+</p> In this project, I analyzed AtliQ Hardware's Customer, Product, and Market Performance data spanning 2019 to 2021. Leveraging Microsoft Excel, I developed comprehensive Sales and Finance reports to support strategic decision-making. This process involved employing ETL methodologies, Power Query, Data Modeling, DAX, and Pivot Tables to transform and visualize the data effectively..
+</p>
+<br><br><br>
+
 
 
 
