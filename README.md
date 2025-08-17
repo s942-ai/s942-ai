@@ -31,7 +31,7 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 # Projects:
 
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/blob/main/Assets/Screenshot%202025-01-15%20102039.png"> **[AtliQHardware: Sales & Finance Performance Analysis(EXL)](https://github.com/sangRam698/AtliQ_Hardwares-_Sales_and_Finance_Analysis/tree/main)**
-</p> In this project, I analyzed AtliQ Hardware's Customer, Product, and Market Performance data spanning 2019 to 2021. Leveraging Microsoft Excel, I developed comprehensive Sales and Finance reports to support strategic decision-making. This process involved employing ETL methodologies, Power Query, Data Modeling, DAX, and Pivot Tables to transform and visualize the data effectively..
+</p> In this project, I analyzed AtliQ Hardware's Customer, Product, and Market Performance data from 2019 to 2021. Using Microsoft Excel, I developed comprehensive Sales and Finance reports to support strategic decision-making. This process involved employing ETL methodologies, Power Query, Data Modeling, DAX, and Pivot Tables to effectively transform and visualize the data.
 </p>
 <br><br><br>
 
