@@ -43,13 +43,10 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 </p>
 <br><br><br>
 
-
 ---
 
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-01-29%20090426.png"> **[AtliQMart_Supply_Chain_Analysis(POWER BI)](https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/tree/main))**
 </p>  I performed a Supply Chain Analysis for AtliQ Mart using Power BI, tracking key performance indicators such as On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate %, and Average Days of Delayed Delivery. The report offers valuable insights into cities, product categories, and customers, allowing for effective performance monitoring, trend identification, and improved supply chain efficiency
-
----  
 
 </p>
 <br><br><br>
@@ -60,6 +57,8 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 </p> In this project, I analyzed AtliQ Hardware's Customer, Product, and Market Performance data spanning 2019 to 2021. Leveraging Microsoft Excel, I developed comprehensive Sales and Finance reports to support strategic decision-making. This process involved employing ETL methodologies, Power Query, Data Modeling, DAX, and Pivot Tables to transform and visualize the data effectively..
 </p>
 <br><br><br>
+
+---
 
 
 
